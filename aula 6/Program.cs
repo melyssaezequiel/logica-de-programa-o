@@ -14,13 +14,14 @@ if (ehvalido)
     {
 
         Console.WriteLine(" Usuario é maior de idade ");
-       
+
     }
     else
     {
         Console.WriteLine("usuario é menor de idade");
-
-
     }
-    else 
-    Console.WriteLine( "Valor informado não corresponde");
+else
+{
+
+    Console.WriteLine("Valor informado não corresponde");
+}
